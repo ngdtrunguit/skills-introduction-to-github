@@ -6,6 +6,3 @@
 
 ## Lession 2
 hahaha
-
-## Lession 3 
-> test stash instead of rebase
