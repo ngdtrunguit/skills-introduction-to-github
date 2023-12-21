@@ -6,3 +6,6 @@
 
 ## Lession 2
 tested rebase remote branch
+
+## Lession 3 
+> test stash instead of rebase
